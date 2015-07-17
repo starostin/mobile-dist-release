@@ -65,8 +65,10 @@
     -->
     <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.1.1" />
 
+    <gap:plugin name="nl.x-services.plugins.socialsharing" source="plugins.cordova.io" />
+
     <!-- Define app icon for each platform. -->
-    <icon src="icon-48.png" />
+    <!-- <icon src="icon.png" /> -->
     <!--
     <icon src="res/icon/blackberry/icon-80.png"     gap:platform="blackberry" />
     <icon src="res/icon/blackberry/icon-80.png"     gap:platform="blackberry" gap:state="hover"/>

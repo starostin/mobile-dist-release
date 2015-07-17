@@ -66,6 +66,7 @@
     <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.1.1" />
 
     <gap:plugin name="nl.x-services.plugins.socialsharing" source="plugins.cordova.io" />
+    <gap:plugin name="com.pbakondy.sim2" version="1.0.16" />
 
     <!-- Define app icon for each platform. -->
     <!-- <icon src="icon.png" /> -->
